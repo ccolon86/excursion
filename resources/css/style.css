@@ -1,0 +1,34 @@
+body {
+	background-color: black;
+	text-align: center;
+	font-family: Veranda;
+	color: white;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 50px;
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+}
+
+.download {
+	color: Aquamarine;
+	font-size: 20px;
+
+}
+
+p {
+	font-size: 21px;
+	color: Gray;
+}
+
+h3 {
+	text-align: right;
+	color: Gray;
+}
